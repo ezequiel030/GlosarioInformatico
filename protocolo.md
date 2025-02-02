@@ -6,3 +6,5 @@ Conjunto de reglas para la comunicación entre sistemas en redes. Ejemplos:
 - SMTP: Envío de correos electrónicos.
 - FTP: Transferencia de archivos.
 - ICMP: Diagnóstico de red (usado en ping).
+
+![protocolo](img/protocolo.jpg)
