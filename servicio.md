@@ -6,3 +6,5 @@ Es un sistema jerárquico que traduce nombres de dominio en direcciones IP. Func
 - AAAA → Dirección IPv6.
 - CNAME → Alias de otro dominio.
 - MX → Servidores de correo.
+
+![DNS](img/qué-es-dns.png)
