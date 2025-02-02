@@ -11,10 +11,7 @@
     - [Servicio DNS](servicio.md)
 
 2. Puertos y Protocolos de Comunicación.
-    - [Puerto 21](puerto21.md)
-    - [Puerto 22](puerto22.md)
-    - [Puerto 80](puerto80.md)
-    - [Puerto 443](puerto443.md)
+    - [Puerto 21, 22, 80, 443](puertos.md)
     - [Protocolo](protocolo.md)
     - [Diferencia entre HTTP y HTTPS](diferencia.md)
     
