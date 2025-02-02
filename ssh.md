@@ -2,4 +2,4 @@
 
 Protocolo que permite acceso remoto seguro mediante cifrado en el puerto 22. Utiliza autenticación por clave pública o contraseña.
 
-![ssh](img/)
+![ssh](img/How-does-SSH.png)
