@@ -28,7 +28,6 @@
     - [RDP](rdp.md)
 
 6. Servidores y Servicios Web.
-    - [Servicio Web](servicioweb.md)
     - [Apache](apache.md)
     - [Nginx](nginx.md)
 
