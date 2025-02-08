@@ -29,7 +29,6 @@
     - [Nginx](nginx.md)
 
 7. Computación en la Nube (Cloud).
-    - [Cloud](cloud.md)
     - [AWS](aws.md)
     - [Google Cloud](google.md)
     - [Azure](azure.md)
